@@ -4,11 +4,15 @@
 Hygge ('Cozzy') Response 
 =========================
 
+"A cozzy('hygge') way to get json response back asynchronously"
+
 .. contents:: Topics
 
 Overview
 --------
 
+It should be easy to return json response asynchronously. hygge aim to be a fuzzy-less way to do just that.
+Just pass a url and 'get' arguments such as params, headers, and receive back a json response. 
 
 website: `hygge <https://github.com/Proteusiq/hygge>`_.
 
