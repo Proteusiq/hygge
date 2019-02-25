@@ -1,10 +1,10 @@
+.. image:: https://github.com/Proteusiq/hygge/blob/master/hygge.png
+  :target: https://github.com/Proteusiq/hygge
+
 Hygge ('Cozzy') Response 
 =========================
 
 .. contents:: Topics
-
-.. image:: https://github.com/Proteusiq/hygge/blob/master/hygge.png
-  :target: https://github.com/Proteusiq/hygge
 
 Overview
 --------
