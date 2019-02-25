@@ -18,7 +18,9 @@ website: `hygge <https://github.com/Proteusiq/hygge>`_.
    pip install hygge
    
 How to use
+
 .. code-block:: python
+
     from hygge.get import GetResponse
 
     url = 'https://www.trustpilot.com/businessunit/search'
