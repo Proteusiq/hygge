@@ -3,8 +3,8 @@ Hygge ('Cozzy') Response
 
 .. contents:: Topics
 
-.. image:: https://foobar.svg
-  :target: https://foobare
+.. image:: https://github.com/Proteusiq/hygge/blob/master/hygge.png
+  :target: https://github.com/Proteusiq/hygge
 
 Overview
 --------
