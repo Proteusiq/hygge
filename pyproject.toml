@@ -1,8 +1,14 @@
 [tool.poetry]
 name = "hygge"
-version = "0.1.0"
+version = "0.1.2"
 description = "A cozzy('hygge') way to get json response back asynchronously"
 authors = ["Prayson Wilfred Daniel <praysonwilfred@gmail.com>"]
+
+readme = 'README.rst'
+repository = "https://github.com/Proteusiq/hygge"
+homepage = "https://github.com/Proteusiq/hygge" 
+
+keywords = ['http', 'requests','json','api']
 
 [tool.poetry.dependencies]
 python = "^3.6"
