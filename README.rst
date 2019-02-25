@@ -16,9 +16,11 @@ website: `hygge <https://github.com/Proteusiq/hygge>`_.
 
    # install hygge
    pip install hygge
+   
+How to use
 
-### How to use:
-    ```python
+.. code-block:: python
+
     from hygge.get import GetResponse
 
     url = 'https://www.trustpilot.com/businessunit/search'
@@ -31,4 +33,4 @@ website: `hygge <https://github.com/Proteusiq/hygge>`_.
     # passing only url
     info_url = f'https://www.trustpilot.com/businessunit/{res["businessUnits"][0]["id"]}/companyinfobox'
     print(GetResponse(info_url).get())
-    ```
+    
